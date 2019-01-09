@@ -1,6 +1,8 @@
 # Proposal for a New Coptic Calendar
 This Python program generates a MongoDB database of the New Coptic Calendar (newcopticcalendar.org), including a new proposal for Computus (the calculation of Easter) based on NASA JPL ephemerides, a new method of computing leap years, and restoration of the origianal start date of the New Coptic Year (1 Thout = 29 August) thereby aligning fixed feast days such as Christmas with the Gregorian Calendar (29 Kiahk = 25 December)
 
+The default program generates the New Coptic Calendar for 500 years, starting on 29 August, 2019 (1 Thout 1736 New Coptic Calendar, 23 Mesra 1735 Old Coptic Calendar)
+
 # Requirements
 - Python 3.7 or higher
 - DE435 ephemerides file from NASA JPL (https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de435.bsp)
