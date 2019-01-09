@@ -5,7 +5,7 @@ This Python program generates a MongoDB database of the New Coptic Calendar (new
 - A new proposal for Computus (the calculation of Easter) based on the rules of the Council Of Nicea (Easter is the first Sunday after the first full moon after the Vernal Equinox), however utilizing NASA JPL ephemerides to calculate the true, astronomical date of both the Vernal Equinox and the Paschal Full Moon as observed from the city of Jerusalem. 
 
 
-The default program generates the New Coptic Calendar for 500 years, starting on 29 August, 2019 (1 Thout 1736 New Coptic Calendar, 23 Mesra 1735 Old Coptic Calendar)
+The default program generates the New Coptic Calendar for 500 years, starting on 29 August, 2019 (1 Thout 1736 New Coptic Calendar, 23 Mesra 1735 Old Coptic Calendar), along with the corresponding dates in the Gregorian Calendar and the Old Coptic Calendar, as well as fixed and variable event dates (e.g. Christmas and Easter respectively). 
 
 # Requirements
 - Python 3.7 or higher
