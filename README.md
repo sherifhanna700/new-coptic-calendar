@@ -15,3 +15,24 @@ The default program generates the New Coptic Calendar for 500 years, starting on
 - MongoDB (https://www.mongodb.com/download-center)
 - PyMongo (https://api.mongodb.com/python/current/)
 - pytz (http://pytz.sourceforge.net/)
+
+# MongoDB Database Organization
+## Database Name
+`new_coptic_calendar`
+## Collection Name
+`master-calendar`
+## Fields
+Each document in the collection represents a day, and provides the corresponding dates in the Gregorian Calendar, Old Coptic Calendar, and New Coptic Calendar as follows:
+- `weekday`: Weekday
+- `gg_year`: Integer year of the date in the Gregorian calendar
+- `gg_month`: Integer month (`1`,`2`,…,`12`) of date in the Gregorian calendar
+- `gg_day`: Integer day of the date in the Gregorian calendar
+- `occ_year`: Integer year of the date in the Old Coptic Calendar
+- `occ_month`: Integer month (`1`,`2`,…,`13`) of the date in the Old Coptic Calendar
+- `occ_day`: Integer day of the date in the Old Coptic Calendar
+- `ncc_year`: Integer year of the date in the New Coptic Calendar
+- `ncc_month`: Integer month (`1`,`2`,…,`13`) of the date in the New Coptic Calendar
+- `ncc_day`: Integer day of the date in the New Coptic Calendar
+- `ncc_fixed_event`: String value of a fixed event in the New Coptic Calendar (e.g. `The Feast of the Nativity`) if one occurs on that day, otherwise "Undefined"
+- `ncc_variable_event`: String value of a variable event in the New Coptic Calendar (e.g. `The Feast of the Resurrection`) if one occurs on that day, otherwise `Undefined`
+- `celestial_event`: String value of either `Vernal Equinox`,`Paschal Full Moon`, or `Undefined`
