@@ -9,12 +9,14 @@ The default program generates the New Coptic Calendar for 500 years, starting on
 
 # Requirements
 - Python 3.7 or higher
+- MongoDB (https://www.mongodb.com/download-center)
 - DE435 ephemeris file from NASA JPL (https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de435.bsp)
 -- Place de435.bsp in the same directory as your main Jupyter Python code file.
 - Skyfield Python library (https://rhodesmill.org/skyfield/)
-- MongoDB (https://www.mongodb.com/download-center)
 - PyMongo (https://api.mongodb.com/python/current/)
 - pytz (http://pytz.sourceforge.net/)
+
+If you're on a Linux or macOS machine, you can use the `install_requirements.sh` shell script to automatically install the necessary Python libraries and download the DE435.bsp ephemeris file. *Please make sure Python 3.7 and MongoDB are already installed before doing this.*
 
 # MongoDB Database Organization
 ## Database Name
