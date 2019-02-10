@@ -35,6 +35,7 @@ Each document in the collection represents a day, and provides the corresponding
 - `ncc_year`: Integer year of the date in the New Coptic Calendar
 - `ncc_month`: Integer month (`1`,`2`,…,`13`) of the date in the New Coptic Calendar
 - `ncc_day`: Integer day of the date in the New Coptic Calendar
+- `ncc_season`: The agricultural season ("Waters of the Rivers", "Air of the Heavens" etc.)
 - `ncc_fixed_event`: String value of a fixed event in the New Coptic Calendar (e.g. `The Feast of the Nativity`) if one occurs on that day, otherwise `Undefined`
 - `ncc_variable_event`: String value of a variable event in the New Coptic Calendar (e.g. `The Feast of the Resurrection`) if one occurs on that day, otherwise `Undefined`
 - `celestial_event`: String value of either `Vernal Equinox`,`Paschal Full Moon`, or `Undefined`
