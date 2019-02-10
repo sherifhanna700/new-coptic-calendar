@@ -1,90 +1,367 @@
-weekday,Gregorian Date,NCC Date,ncc_fixed_event,ncc_variable_event
-Wednesday,1 January,6 Tobi,The Feast of the Circumcision,Undefined
-Friday,3 January,8 Tobi,Undefined,Paramoun of Theophany
-Saturday,4 January,9 Tobi,Undefined,Paramoun of Theophany
-Sunday,5 January,10 Tobi,Undefined,Paramoun of Theophany
-Monday,6 January,11 Tobi,First day of the Season of the Air of the Heavens and the Fruits of the Earth,Undefined
-Wednesday,8 January,13 Tobi,The Feast of the First Miracle at Cana of Galilee,Undefined
-Thursday,16 January,21 Tobi,Dormition of the Theotokos,Undefined
-Wednesday,22 January,27 Tobi,The Feast of Archangel Suriel,Undefined
-Sunday,2 February,8 Meshir,The Feast of the Presentation of the Lord in the Temple,Undefined
-Monday,3 February,9 Meshir,Undefined,Fast of Ninevah
-Tuesday,4 February,10 Meshir,Undefined,Fast of Ninevah
-Wednesday,5 February,11 Meshir,Undefined,Fast of Ninevah
-Saturday,15 February,21 Meshir,Monthly Commemoration of the Theotokos,Undefined
-Monday,17 February,23 Meshir,Undefined,First Day of Lent
-Sunday,23 February,29 Meshir,Undefined,First Sunday of Lent
-Monday,24 February,30 Meshir,The Appearance of the Head of St. John the Baptist,Undefined
-Sunday,1 March,6 Paremhat,Undefined,Second Sunday of Lent
-Thursday,5 March,10 Paremhat,The Appearance Of The Glorious Cross,Undefined
-Sunday,8 March,13 Paremhat,Undefined,Third Sunday of Lent
-Sunday,15 March,20 Paremhat,Undefined,Fourth Sunday of Lent
-Monday,16 March,21 Paremhat,Monthly Commemoration of the Theotokos,Undefined
-Sunday,22 March,27 Paremhat,Undefined,Fifth Sunday of Lent
-Tuesday,24 March,29 Paremhat,The Feast of the Annunciation,Undefined
-Sunday,29 March,4 Paramouti,Undefined,Sixth Sunday of Lent
-Friday,3 April,9 Paramouti,Undefined,Last Day of Lent
-Saturday,4 April,10 Paramouti,Undefined,Lazarus Saturday
-Sunday,5 April,11 Paramouti,Undefined,Palm Sunday
-Monday,6 April,12 Paramouti,Undefined,Holy Monday
-Tuesday,7 April,13 Paramouti,Undefined,Holy Tuesday
-Wednesday,8 April,14 Paramouti,Undefined,Holy Wednesday
-Thursday,9 April,15 Paramouti,Undefined,Great and Holy Thursday
-Friday,10 April,16 Paramouti,Undefined,Great and Holy Friday
-Saturday,11 April,17 Paramouti,Undefined,Great and Holy Saturday
-Sunday,12 April,18 Paramouti,Undefined,The Feast of the Resurrection
-Wednesday,15 April,21 Paramouti,Monthly Commemoration of the Theotokos,Undefined
-Friday,17 April,23 Paramouti,The Martyrdom of St. George of Cappadocia,Undefined
-Sunday,19 April,25 Paramouti,Undefined,Thomas Sunday
-Thursday,23 April,29 Paramouti,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined
-Friday,24 April,30 Paramouti,The Martyrdom of the St. Mark,Undefined
-Saturday,25 April,1 Pashons,Nativity of the Theotokos,Undefined
-Sunday,26 April,2 Pashons,Undefined,Second Sunday of Pentecost
-Sunday,3 May,9 Pashons,Undefined,Third Sunday of Pentecost
-Sunday,10 May,16 Pashons,Undefined,Fourth Sunday of Pentecost
-Friday,15 May,21 Pashons,Monthly Commemoration of the Theotokos,Undefined
-Sunday,17 May,23 Pashons,Undefined,Fifth Sunday of Pentecost
-Monday,18 May,24 Pashons,The Feast of the Lord's Entrance into Egypt,Undefined
-Thursday,21 May,27 Pashons,Undefined,Feast of the Ascension
-Saturday,23 May,29 Pashons,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined
-Sunday,24 May,30 Pashons,Undefined,Sixth Sunday of Pentecost
-Tuesday,26 May,2 Paoni,The Commemoration of the Appearance of the Bodies of St. John the Baptist and Elisha the Prophet,Undefined
-Sunday,31 May,7 Paoni,Undefined,Feast of the Pentecost
-Monday,1 June,8 Paoni,Undefined,Apostle's Fast Begins
-Friday,5 June,12 Paoni,First day of the Season of the Waters of the River,Undefined
-Sunday,14 June,21 Paoni,The Commemoration of the First Church for The Virgin Mary in the city of Philippi,Undefined
-Friday,19 June,26 Paoni,The Consecration of the Church of Archangel Gabriel,Undefined
-Monday,22 June,29 Paoni,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined
-Tuesday,23 June,30 Paoni,The Nativity of St. John the Baptist,Undefined
-Sunday,28 June,5 Epip,The Feast of the Apostles / Martyrdom of the Apostles Peter and Paul,Undefined
-Tuesday,14 July,21 Epip,Monthly Commemoration of the Theotokos,Undefined
-Monday,20 July,27 Epip,The Feast of Archangel Raphael,Undefined
-Wednesday,22 July,29 Epip,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined
-Friday,24 July,1 Mesori,First Day of the Fast of the Theotokos,Undefined
-Wednesday,5 August,13 Mesori,The Feast of the Transfiguration,Undefined
-Saturday,8 August,16 Mesori,Assumption of the Theotokos,Undefined
-Thursday,13 August,21 Mesori,Monthly Commemoration of the Theotokos,Undefined
-Friday,21 August,29 Mesori,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined
-Tuesday,25 August,3 Pikouji enAvot,The Feast of Archangel Raphael,Undefined
-Saturday,29 August,1 Thout,The Feast of Nayrouz (Coptic New Year),Undefined
-Monday,14 September,17 Thout,The Consecration of the Church of the Honorable Cross,Undefined
-Friday,18 September,21 Thout,Monthly Commemoration of the Theotokos,Undefined
-Saturday,26 September,29 Thout,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined
-Wednesday,7 October,10 Paopi,First day of the Season of the Seeds and the Herbs,Undefined
-Sunday,18 October,21 Paopi,Monthly Commemoration of the Theotokos,Undefined
-Monday,26 October,29 Paopi,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined
-Tuesday,27 October,30 Paopi,The Consecration of the Church of St. Mark the Evangelist and the Appearance of His Holy Head.,Undefined
-Tuesday,3 November,7 Hathor,The Consecration of the Church of St. George of Cappadocia,Undefined
-Wednesday,4 November,8 Hathor,The Feast of the Four Incoporeal Living Creatures,Undefined
-Sunday,8 November,12 Hathor,The Feast of Archangel Michael,Undefined
-Thursday,12 November,16 Hathor,First Day of the Nativity Fast,Undefined
-Tuesday,17 November,21 Hathor,Monthly Commemoration of the Theotokos,Undefined
-Friday,20 November,24 Hathor,The Feast of the Twenty Four Presbyters,Undefined
-Wednesday,25 November,29 Hathor,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined
-Sunday,29 November,3 Kiahk,Presentation of the Theotokos in the Temple,Undefined
-Wednesday,9 December,13 Kiahk,The Feast of Archangel Raphael,Undefined
-Thursday,17 December,21 Kiahk,Monthly Commemoration of the Theotokos,Undefined
-Friday,18 December,22 Kiahk,The Feast of Archangel Gabriel,Undefined
-Thursday,24 December,28 Kiahk,Undefined,Paramoun of Nativity
-Friday,25 December,29 Kiahk,The Feast of the Nativity,Undefined
-Tuesday,29 December,3 Tobi,"The Feast of the 144,000 Slain Children of Bethlehem",Undefined
+weekday,gg_year,gg_month,gg_day,ncc_year,ncc_month,ncc_day,celestial_event,ncc_fixed_event,ncc_variable_event,ncc_season
+Wednesday,2020,1,1,1736,5,6,Undefined,The Feast of the Circumcision,Undefined,The Seeds and the Herbs
+Thursday,2020,1,2,1736,5,7,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,1,3,1736,5,8,Undefined,Undefined,Paramoun of Theophany,The Seeds and the Herbs
+Saturday,2020,1,4,1736,5,9,Undefined,Undefined,Paramoun of Theophany,The Seeds and the Herbs
+Sunday,2020,1,5,1736,5,10,Undefined,Undefined,Paramoun of Theophany,The Seeds and the Herbs
+Monday,2020,1,6,1736,5,11,Undefined,The Feast of the Theophany,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,1,7,1736,5,12,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,1,8,1736,5,13,Undefined,The Feast of the First Miracle at Cana of Galilee,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,1,9,1736,5,14,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,1,10,1736,5,15,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,1,11,1736,5,16,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,1,12,1736,5,17,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,1,13,1736,5,18,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,1,14,1736,5,19,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,1,15,1736,5,20,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,1,16,1736,5,21,Undefined,Dormition of the Theotokos,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,1,17,1736,5,22,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,1,18,1736,5,23,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,1,19,1736,5,24,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,1,20,1736,5,25,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,1,21,1736,5,26,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,1,22,1736,5,27,Undefined,The Feast of Archangel Suriel,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,1,23,1736,5,28,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,1,24,1736,5,29,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,1,25,1736,5,30,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,1,26,1736,6,1,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,1,27,1736,6,2,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,1,28,1736,6,3,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,1,29,1736,6,4,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,1,30,1736,6,5,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,1,31,1736,6,6,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,2,1,1736,6,7,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,2,2,1736,6,8,Undefined,The Feast of the Presentation of the Lord in the Temple,Undefined,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,2,3,1736,6,9,Undefined,Undefined,Fast of Ninevah,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,2,4,1736,6,10,Undefined,Undefined,Fast of Ninevah,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,2,5,1736,6,11,Undefined,Undefined,Fast of Ninevah,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,2,6,1736,6,12,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,2,7,1736,6,13,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,2,8,1736,6,14,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,2,9,1736,6,15,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,2,10,1736,6,16,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,2,11,1736,6,17,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,2,12,1736,6,18,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,2,13,1736,6,19,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,2,14,1736,6,20,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,2,15,1736,6,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,2,16,1736,6,22,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,2,17,1736,6,23,Undefined,Undefined,First Day of Lent,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,2,18,1736,6,24,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,2,19,1736,6,25,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,2,20,1736,6,26,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,2,21,1736,6,27,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,2,22,1736,6,28,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,2,23,1736,6,29,Undefined,Undefined,First Sunday of Lent,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,2,24,1736,6,30,Undefined,The Appearance of the Head of St. John the Baptist,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,2,25,1736,7,1,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,2,26,1736,7,2,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,2,27,1736,7,3,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,2,28,1736,7,4,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,2,29,1736,7,5,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,3,1,1736,7,6,Undefined,Undefined,Second Sunday of Lent,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,3,2,1736,7,7,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,3,3,1736,7,8,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,3,4,1736,7,9,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,3,5,1736,7,10,Undefined,The Appearance Of The Glorious Cross,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,3,6,1736,7,11,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,3,7,1736,7,12,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,3,8,1736,7,13,Undefined,Undefined,Third Sunday of Lent,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,3,9,1736,7,14,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,3,10,1736,7,15,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,3,11,1736,7,16,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,3,12,1736,7,17,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,3,13,1736,7,18,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,3,14,1736,7,19,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,3,15,1736,7,20,Undefined,Undefined,Fourth Sunday of Lent,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,3,16,1736,7,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,3,17,1736,7,22,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,3,18,1736,7,23,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,3,19,1736,7,24,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,3,20,1736,7,25,Vernal Equinox,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,3,21,1736,7,26,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,3,22,1736,7,27,Undefined,Undefined,Fifth Sunday of Lent,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,3,23,1736,7,28,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,3,24,1736,7,29,Undefined,The Feast of the Annunciation,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,3,25,1736,7,30,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,3,26,1736,8,1,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,3,27,1736,8,2,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,3,28,1736,8,3,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,3,29,1736,8,4,Undefined,Undefined,Sixth Sunday of Lent,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,3,30,1736,8,5,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,3,31,1736,8,6,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,4,1,1736,8,7,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,4,2,1736,8,8,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,4,3,1736,8,9,Undefined,Undefined,Last Day of Lent,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,4,4,1736,8,10,Undefined,Undefined,Lazarus Saturday,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,4,5,1736,8,11,Undefined,Undefined,Palm Sunday,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,4,6,1736,8,12,Undefined,Undefined,Holy Monday,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,4,7,1736,8,13,Undefined,Undefined,Holy Tuesday,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,4,8,1736,8,14,Paschal Full Moon,Undefined,Holy Wednesday,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,4,9,1736,8,15,Undefined,Undefined,Great and Holy Thursday,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,4,10,1736,8,16,Undefined,Undefined,Great and Holy Friday,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,4,11,1736,8,17,Undefined,Undefined,Great and Holy Saturday,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,4,12,1736,8,18,Undefined,Undefined,The Feast of the Resurrection,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,4,13,1736,8,19,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,4,14,1736,8,20,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,4,15,1736,8,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,4,16,1736,8,22,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,4,17,1736,8,23,Undefined,The Martyrdom of St. George of Cappadocia,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,4,18,1736,8,24,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,4,19,1736,8,25,Undefined,Undefined,Thomas Sunday,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,4,20,1736,8,26,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,4,21,1736,8,27,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,4,22,1736,8,28,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,4,23,1736,8,29,Undefined,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,4,24,1736,8,30,Undefined,The Martyrdom of the St. Mark,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,4,25,1736,9,1,Undefined,Nativity of the Theotokos,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,4,26,1736,9,2,Undefined,Undefined,Second Sunday of Pentecost,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,4,27,1736,9,3,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,4,28,1736,9,4,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,4,29,1736,9,5,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,4,30,1736,9,6,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,5,1,1736,9,7,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,5,2,1736,9,8,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,5,3,1736,9,9,Undefined,Undefined,Third Sunday of Pentecost,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,5,4,1736,9,10,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,5,5,1736,9,11,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,5,6,1736,9,12,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,5,7,1736,9,13,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,5,8,1736,9,14,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,5,9,1736,9,15,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,5,10,1736,9,16,Undefined,Undefined,Fourth Sunday of Pentecost,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,5,11,1736,9,17,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,5,12,1736,9,18,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,5,13,1736,9,19,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,5,14,1736,9,20,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,5,15,1736,9,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,5,16,1736,9,22,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,5,17,1736,9,23,Undefined,Undefined,Fifth Sunday of Pentecost,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,5,18,1736,9,24,Undefined,The Feast of the Lord's Entrance into Egypt,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,5,19,1736,9,25,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,5,20,1736,9,26,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,5,21,1736,9,27,Undefined,Undefined,Feast of the Ascension,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,5,22,1736,9,28,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,5,23,1736,9,29,Undefined,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,5,24,1736,9,30,Undefined,Undefined,Sixth Sunday of Pentecost,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,5,25,1736,10,1,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,5,26,1736,10,2,Undefined,The Commemoration of the Appearance of the Bodies of St. John the Baptist and Elisha the Prophet,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,5,27,1736,10,3,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,5,28,1736,10,4,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,5,29,1736,10,5,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Saturday,2020,5,30,1736,10,6,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Sunday,2020,5,31,1736,10,7,Undefined,Undefined,Feast of the Pentecost,The Air of the Heavens and the Fruits of the Earth
+Monday,2020,6,1,1736,10,8,Undefined,Undefined,Apostle's Fast Begins,The Air of the Heavens and the Fruits of the Earth
+Tuesday,2020,6,2,1736,10,9,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Wednesday,2020,6,3,1736,10,10,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Thursday,2020,6,4,1736,10,11,Undefined,Undefined,Undefined,The Air of the Heavens and the Fruits of the Earth
+Friday,2020,6,5,1736,10,12,Undefined,The Feast of Archangel Michael,Undefined,The Waters of the River
+Saturday,2020,6,6,1736,10,13,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,6,7,1736,10,14,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,6,8,1736,10,15,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,6,9,1736,10,16,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,6,10,1736,10,17,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,6,11,1736,10,18,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,6,12,1736,10,19,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,6,13,1736,10,20,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,6,14,1736,10,21,Undefined,The Commemoration of the First Church for The Virgin Mary in the city of Philippi,Undefined,The Waters of the River
+Monday,2020,6,15,1736,10,22,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,6,16,1736,10,23,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,6,17,1736,10,24,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,6,18,1736,10,25,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,6,19,1736,10,26,Undefined,The Consecration of the Church of Archangel Gabriel,Undefined,The Waters of the River
+Saturday,2020,6,20,1736,10,27,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,6,21,1736,10,28,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,6,22,1736,10,29,Undefined,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined,The Waters of the River
+Tuesday,2020,6,23,1736,10,30,Undefined,The Nativity of St. John the Baptist,Undefined,The Waters of the River
+Wednesday,2020,6,24,1736,11,1,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,6,25,1736,11,2,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,6,26,1736,11,3,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,6,27,1736,11,4,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,6,28,1736,11,5,Undefined,The Feast of the Apostles / Martyrdom of the Apostles Peter and Paul,Undefined,The Waters of the River
+Monday,2020,6,29,1736,11,6,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,6,30,1736,11,7,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,7,1,1736,11,8,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,7,2,1736,11,9,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,7,3,1736,11,10,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,7,4,1736,11,11,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,7,5,1736,11,12,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,7,6,1736,11,13,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,7,7,1736,11,14,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,7,8,1736,11,15,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,7,9,1736,11,16,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,7,10,1736,11,17,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,7,11,1736,11,18,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,7,12,1736,11,19,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,7,13,1736,11,20,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,7,14,1736,11,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Waters of the River
+Wednesday,2020,7,15,1736,11,22,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,7,16,1736,11,23,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,7,17,1736,11,24,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,7,18,1736,11,25,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,7,19,1736,11,26,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,7,20,1736,11,27,Undefined,The Feast of Archangel Raphael,Undefined,The Waters of the River
+Tuesday,2020,7,21,1736,11,28,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,7,22,1736,11,29,Undefined,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined,The Waters of the River
+Thursday,2020,7,23,1736,11,30,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,7,24,1736,12,1,Undefined,First Day of the Fast of the Theotokos,Undefined,The Waters of the River
+Saturday,2020,7,25,1736,12,2,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,7,26,1736,12,3,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,7,27,1736,12,4,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,7,28,1736,12,5,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,7,29,1736,12,6,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,7,30,1736,12,7,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,7,31,1736,12,8,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,8,1,1736,12,9,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,8,2,1736,12,10,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,8,3,1736,12,11,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,8,4,1736,12,12,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,8,5,1736,12,13,Undefined,The Feast of the Transfiguration,Undefined,The Waters of the River
+Thursday,2020,8,6,1736,12,14,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,8,7,1736,12,15,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,8,8,1736,12,16,Undefined,Assumption of the Theotokos,Undefined,The Waters of the River
+Sunday,2020,8,9,1736,12,17,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,8,10,1736,12,18,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,8,11,1736,12,19,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,8,12,1736,12,20,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,8,13,1736,12,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Waters of the River
+Friday,2020,8,14,1736,12,22,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,8,15,1736,12,23,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,8,16,1736,12,24,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,8,17,1736,12,25,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,8,18,1736,12,26,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,8,19,1736,12,27,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,8,20,1736,12,28,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,8,21,1736,12,29,Undefined,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined,The Waters of the River
+Saturday,2020,8,22,1736,12,30,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,8,23,1736,13,1,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,8,24,1736,13,2,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,8,25,1736,13,3,Undefined,The Feast of Archangel Raphael,Undefined,The Waters of the River
+Wednesday,2020,8,26,1736,13,4,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,8,27,1736,13,5,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,8,28,1736,13,6,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,8,29,1737,1,1,Undefined,The Feast of Nayrouz (Coptic New Year),Undefined,The Waters of the River
+Sunday,2020,8,30,1737,1,2,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,8,31,1737,1,3,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,9,1,1737,1,4,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,9,2,1737,1,5,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,9,3,1737,1,6,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,9,4,1737,1,7,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,9,5,1737,1,8,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,9,6,1737,1,9,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,9,7,1737,1,10,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,9,8,1737,1,11,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,9,9,1737,1,12,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,9,10,1737,1,13,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,9,11,1737,1,14,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,9,12,1737,1,15,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,9,13,1737,1,16,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,9,14,1737,1,17,Undefined,The Consecration of the Church of the Honorable Cross,Undefined,The Waters of the River
+Tuesday,2020,9,15,1737,1,18,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,9,16,1737,1,19,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,9,17,1737,1,20,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,9,18,1737,1,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Waters of the River
+Saturday,2020,9,19,1737,1,22,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,9,20,1737,1,23,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,9,21,1737,1,24,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,9,22,1737,1,25,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,9,23,1737,1,26,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,9,24,1737,1,27,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,9,25,1737,1,28,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,9,26,1737,1,29,Undefined,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined,The Waters of the River
+Sunday,2020,9,27,1737,1,30,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,9,28,1737,2,1,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,9,29,1737,2,2,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,9,30,1737,2,3,Undefined,Undefined,Undefined,The Waters of the River
+Thursday,2020,10,1,1737,2,4,Undefined,Undefined,Undefined,The Waters of the River
+Friday,2020,10,2,1737,2,5,Undefined,Undefined,Undefined,The Waters of the River
+Saturday,2020,10,3,1737,2,6,Undefined,Undefined,Undefined,The Waters of the River
+Sunday,2020,10,4,1737,2,7,Undefined,Undefined,Undefined,The Waters of the River
+Monday,2020,10,5,1737,2,8,Undefined,Undefined,Undefined,The Waters of the River
+Tuesday,2020,10,6,1737,2,9,Undefined,Undefined,Undefined,The Waters of the River
+Wednesday,2020,10,7,1737,2,10,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,10,8,1737,2,11,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,10,9,1737,2,12,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,10,10,1737,2,13,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,10,11,1737,2,14,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,10,12,1737,2,15,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,10,13,1737,2,16,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Wednesday,2020,10,14,1737,2,17,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,10,15,1737,2,18,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,10,16,1737,2,19,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,10,17,1737,2,20,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,10,18,1737,2,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Seeds and the Herbs
+Monday,2020,10,19,1737,2,22,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,10,20,1737,2,23,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Wednesday,2020,10,21,1737,2,24,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,10,22,1737,2,25,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,10,23,1737,2,26,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,10,24,1737,2,27,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,10,25,1737,2,28,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,10,26,1737,2,29,Undefined,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined,The Seeds and the Herbs
+Tuesday,2020,10,27,1737,2,30,Undefined,The Consecration of the Church of St. Mark the Evangelist and the Appearance of His Holy Head.,Undefined,The Seeds and the Herbs
+Wednesday,2020,10,28,1737,3,1,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,10,29,1737,3,2,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,10,30,1737,3,3,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,10,31,1737,3,4,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,11,1,1737,3,5,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,11,2,1737,3,6,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,11,3,1737,3,7,Undefined,The Consecration of the Church of St. George of Cappadocia,Undefined,The Seeds and the Herbs
+Wednesday,2020,11,4,1737,3,8,Undefined,The Feast of the Four Incoporeal Living Creatures,Undefined,The Seeds and the Herbs
+Thursday,2020,11,5,1737,3,9,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,11,6,1737,3,10,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,11,7,1737,3,11,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,11,8,1737,3,12,Undefined,The Feast of Archangel Michael,Undefined,The Seeds and the Herbs
+Monday,2020,11,9,1737,3,13,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,11,10,1737,3,14,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Wednesday,2020,11,11,1737,3,15,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,11,12,1737,3,16,Undefined,First Day of the Nativity Fast,Undefined,The Seeds and the Herbs
+Friday,2020,11,13,1737,3,17,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,11,14,1737,3,18,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,11,15,1737,3,19,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,11,16,1737,3,20,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,11,17,1737,3,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Seeds and the Herbs
+Wednesday,2020,11,18,1737,3,22,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,11,19,1737,3,23,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,11,20,1737,3,24,Undefined,The Feast of the Twenty Four Presbyters,Undefined,The Seeds and the Herbs
+Saturday,2020,11,21,1737,3,25,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,11,22,1737,3,26,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,11,23,1737,3,27,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,11,24,1737,3,28,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Wednesday,2020,11,25,1737,3,29,Undefined,"Monthly Commemoration of the Annunciation, Nativity, and Resurrection",Undefined,The Seeds and the Herbs
+Thursday,2020,11,26,1737,3,30,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,11,27,1737,4,1,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,11,28,1737,4,2,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,11,29,1737,4,3,Undefined,Presentation of the Theotokos in the Temple,Undefined,The Seeds and the Herbs
+Monday,2020,11,30,1737,4,4,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,12,1,1737,4,5,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Wednesday,2020,12,2,1737,4,6,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,12,3,1737,4,7,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,12,4,1737,4,8,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,12,5,1737,4,9,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,12,6,1737,4,10,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,12,7,1737,4,11,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,12,8,1737,4,12,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Wednesday,2020,12,9,1737,4,13,Undefined,The Feast of Archangel Raphael,Undefined,The Seeds and the Herbs
+Thursday,2020,12,10,1737,4,14,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Friday,2020,12,11,1737,4,15,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Saturday,2020,12,12,1737,4,16,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,12,13,1737,4,17,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,12,14,1737,4,18,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,12,15,1737,4,19,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Wednesday,2020,12,16,1737,4,20,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,12,17,1737,4,21,Undefined,Monthly Commemoration of the Theotokos,Undefined,The Seeds and the Herbs
+Friday,2020,12,18,1737,4,22,Undefined,The Feast of Archangel Gabriel,Undefined,The Seeds and the Herbs
+Saturday,2020,12,19,1737,4,23,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,12,20,1737,4,24,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,12,21,1737,4,25,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,12,22,1737,4,26,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Wednesday,2020,12,23,1737,4,27,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,12,24,1737,4,28,Undefined,Undefined,Paramoun of Nativity,The Seeds and the Herbs
+Friday,2020,12,25,1737,4,29,Undefined,The Feast of the Nativity,Undefined,The Seeds and the Herbs
+Saturday,2020,12,26,1737,4,30,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Sunday,2020,12,27,1737,5,1,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Monday,2020,12,28,1737,5,2,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Tuesday,2020,12,29,1737,5,3,Undefined,"The Feast of the 144,000 Slain Children of Bethlehem",Undefined,The Seeds and the Herbs
+Wednesday,2020,12,30,1737,5,4,Undefined,Undefined,Undefined,The Seeds and the Herbs
+Thursday,2020,12,31,1737,5,5,Undefined,Undefined,Undefined,The Seeds and the Herbs
