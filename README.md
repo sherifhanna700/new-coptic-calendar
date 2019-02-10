@@ -18,7 +18,14 @@ The default program generates the New Coptic Calendar for 500 years, starting on
 
 If you're on a Linux or macOS machine, you can use the `install_requirements.sh` shell script to automatically install the necessary Python libraries and download the `de435.bsp` ephemeris file. *Please make sure Python 3.7 and MongoDB are already installed before doing this.*
 
-# MongoDB Database Organization
+# The Main Code
+The main code for computing the New Coptic Calendar is housed in the Jupyter notbook called `new_coptic_calendar_code.ipynb`. 
+
+# MongoDB Database and Its Organization
+## Database Archive
+You do not have to run the Python program contained in `new_coptic_calendar_code.ipynb` code to acess the database. Instead you can use the file called new_coptic_calendar_db.[yyyymmdd].archive to restore the database using `mongorestore`:
+
+Sample command: ```mongorestore --archive=new_coptic_calendar_db.20190209.archive --db new_coptic_calendar```
 ## Database Name
 `new_coptic_calendar`
 ## Collection Name
@@ -39,3 +46,4 @@ Each document in the collection represents a day, and provides the corresponding
 - `ncc_fixed_event`: String value of a fixed event in the New Coptic Calendar (e.g. `The Feast of the Nativity`) if one occurs on that day, otherwise `Undefined`
 - `ncc_variable_event`: String value of a variable event in the New Coptic Calendar (e.g. `The Feast of the Resurrection`) if one occurs on that day, otherwise `Undefined`
 - `celestial_event`: String value of either `Vernal Equinox`,`Paschal Full Moon`, or `Undefined`
+
