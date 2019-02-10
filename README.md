@@ -23,7 +23,7 @@ The main code for computing the New Coptic Calendar is housed in the Jupyter not
 
 # MongoDB Database and Its Organization
 ## Database Archive
-You do not have to run the Python program contained in `new_coptic_calendar_code.ipynb` code to acess the database. Instead you can use the file called new_coptic_calendar_db.[yyyymmdd].archive to restore the database using `mongorestore`:
+You do not have to run the Python program contained in `new_coptic_calendar_code.ipynb` code to acess the database. Instead you can use the file called `new_coptic_calendar_db.[yyyymmdd].archive` to restore the database using `mongorestore`:
 
 Sample command: ```mongorestore --archive=new_coptic_calendar_db.20190209.archive --db new_coptic_calendar```
 ## Database Name
